@@ -1,2 +1,6 @@
 hhfsdhhdgjsgj
+<<<<<<< HEAD
 new new mesege
+=======
+new mesege
+>>>>>>> a9f9a2fde58074451b48d589a095a74aee5dbf20
